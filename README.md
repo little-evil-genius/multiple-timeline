@@ -95,4 +95,5 @@ Da ich generell schon mit einem root Verzeichnis arbeite in dem Plugin, habe ich
                             
         #timeline .event .content.Umbrella .description {
             color: var(--text-umbrella) !important;
-        }</blockquote>
+        }
+ </blockquote>
