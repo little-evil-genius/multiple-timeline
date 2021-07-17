@@ -1,4 +1,4 @@
-# Timeline 1.0 (Mehre Timelines)
+# Timeline 1.0 (Mehrere Timelines)
 Dieses Plugin erweitert das Board um einen Zeitstrahl. Ausgewählte Gruppen können Ereignisse zur Timeline hinzufügen und diese werden in einem Zeitstrahl dargestellt.
 Ereignisse vom Team werden automatisch freigeschaltet, doch Ereignisse von Usern müssen erst im Modcp freigeschaltet werden. Es kann eingestellt werden, ob User eigene Ereignisse bearbeiten und/oder löschen können. Das Team hat immer diese Möglichkeit, bei allen Ereignissen.
 Auch kann entschieden werden, ob der Zeitstrahl absteigend oder aufsteigend sein soll.
