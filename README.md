@@ -48,20 +48,20 @@ Hinzugefügte Tabellen:
 
 # Demo
   Zeitstrahl
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-83-6094.png" />
+  <img src="https://stormborn.at/plugins/timeline_multi.png" />
   
   Maske beim Hinzufügen
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-84-63bd.png" />
+  <img src="https://stormborn.at/plugins/timeline_multi_add.png" />
   
   Team-Alert auf dem Index
-  <img src="https://www.bilder-hochladen.net/files/m4bn-7u-a06d.png" />
+  <img src="https://stormborn.at/plugins/timeline_alert.png" />
   
   Mod-CP
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-7v-9efb.png" />
+  <img src="https://stormborn.at/plugins/timeline_modcp.png" />
   
   Einstellungen
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-7w-5558.png" />
-
+  <img src="https://stormborn.at/plugins/timeline_setting.png" />
+  
 Meine Quelle für das Tutorial rund um ein Timeline Code:
 https://www.w3schools.com/howto/howto_css_timeline.asp
 
